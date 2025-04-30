@@ -22,32 +22,32 @@
     
 11. The function will return [50,100,150], the list of dicounted items.
 
-12. 
-A. student.name
-B. student["Grad Year"]
-C. student.greeting()
-D. student.[Favorite Teacher"].name
-E. student.couseLoad[0]
+12. <br>
+A. student.name<br>
+B. student["Grad Year"]<br>
+C. student.greeting()<br>
+D. student.[Favorite Teacher"].name<br>
+E. student.couseLoad[0]<br>
 
 
-13. 
-A. 32 will be the output, this is due to the + operator that does string concatenation.
-B. 1 will be the output due to the - operator, as 3 and 2 will be converted into numbers by js and substraction will occur.
-C. 3 will be the output as 3 + null, null is equal to 0 in js.
-D. 3null will be the ouput as null will be turned to a string and conatentated with the 3. This is as '3' is a string in this case.
-E. 4 will be the output, this is as true is equivalent to 1.
-F. 0 will be the output as both false and null are equal to 0 in js.
-G. 3undefined will be the output, as the + symbol does concatenation and undefined will be converted into a string becuase 3 is a string.
-H. NaN will be the ouput, this is as undefined is not a number and can't be subtracted from 3 which turned from a string to a number.
+13. <br>
+A. 32 will be the output, this is due to the + operator that does string concatenation.<br>
+B. 1 will be the output due to the - operator, as 3 and 2 will be converted into numbers by js and substraction will occur.<br>
+C. 3 will be the output as 3 + null, null is equal to 0 in js.<br>
+D. 3null will be the ouput as null will be turned to a string and conatentated with the 3. This is as '3' is a string in this case.<br>
+E. 4 will be the output, this is as true is equivalent to 1.<br>
+F. 0 will be the output as both false and null are equal to 0 in js.<br>
+G. 3undefined will be the output, as the + symbol does concatenation and undefined will be converted into a string becuase 3 is a string.<br>
+H. NaN will be the ouput, this is as undefined is not a number and can't be subtracted from 3 which turned from a string to a number.<br>
 
 
-14. 
-A. true will be the ouput, because 2 is greater than 1 (as 2 will be interpreted as a number).
-B. false will be the ouput, because 12 is greater than 2, this is a string comparsion as both are strings.
-C. true will be the ouput, as == is type coercion meaning that '2' will be intrepreted as a number than the comparsion will be performed, 2 is equal to 2 so this is true.
-D. false will be the ouput, as although the values are the same the type is different, with one a string and other a number.
-E. false will be the ouput, as true will be 1 and 1 is not equal to 2.
-F. true will be the ouput, this is as Boolean(2) will be equal to true and therefore be of same type.
+14. <br>
+A. true will be the ouput, because 2 is greater than 1 (as 2 will be interpreted as a number).<br>
+B. false will be the ouput, because 12 is greater than 2, this is a string comparsion as both are strings.<br>
+C. true will be the ouput, as == is type coercion meaning that '2' will be intrepreted as a number than the comparsion will be performed, 2 is equal to 2 so this is true.<br>
+D. false will be the ouput, as although the values are the same the type is different, with one a string and other a number.<br>
+E. false will be the ouput, as true will be 1 and 1 is not equal to 2.<br>
+F. true will be the ouput, this is as Boolean(2) will be equal to true and therefore be of same type.<br>
 
 15. The difference between == and === is that === checks for type equality while the other does not. == is a loose equal sign, comparing values and converts types such as string to numbers.
 
@@ -57,7 +57,7 @@ F. true will be the ouput, this is as Boolean(2) will be equal to true and there
 
 18. see part2-question18.js
 
-19.  The output will be: 
+19.  The output will be: <br>
 1<br>
 4<br>
 3<br>
